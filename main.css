@@ -122,11 +122,11 @@ li input {
 
 .strikeout {
   text-decoration: line-through;
-  color: whitesmoke;
+  color: rgb(166, 166, 166);
 }
 
 .strikeout:hover {
-  color: rgb(132, 132, 185);
+  color: rgb(139, 139, 139);
 }
 
 .priority {
@@ -136,4 +136,5 @@ input[type="checkbox"]{
   display: inline !important;
   box-shadow: none;
   width: auto;
+
 }
